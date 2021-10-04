@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Dorian.sammut@gmail.com
+	name = Dorian Sammut
